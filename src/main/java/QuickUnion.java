@@ -1,5 +1,3 @@
-package org.razkevich.UnionFind.core;
-
 public class QuickUnion extends UnionFind {
 
 	public QuickUnion(int n) {

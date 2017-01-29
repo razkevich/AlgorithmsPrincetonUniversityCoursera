@@ -1,5 +1,3 @@
-package org.razkevich.UnionFind.core;
-
 public abstract class UnionFind {
 
 	public UnionFind(int n) {
